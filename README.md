@@ -1,0 +1,4 @@
+storage
+=======
+
+Local storage test
